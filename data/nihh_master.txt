@@ -1,0 +1,5 @@
+# Master config
+devicefile=/data/sample_file9.dat
+encoding=UTF-8
+userfile=/data/sample_file1.dat
+version=1.0
